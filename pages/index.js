@@ -14,14 +14,14 @@ export default function Home({ posts }) {
   return (
     <div>
       <Head>
-        <title>GCOEJ T&P blog</title>
+        <title>abhi thorat blog</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main className={styles.container}>
         <header className={styles.header}>
           <div className={styles.logos}>
-            <Image src={gcoej} width={100} height={100}  alt="Notion" className={styles.logo} />
+            <Image src={gcoej} width={100} height={100}  alt="Notion" className={styles.logo} /> 
           </div>
           <h1>Abhi Thorat's Blog</h1>
           <p>
