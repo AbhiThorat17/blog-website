@@ -23,7 +23,7 @@ export default function Home({ posts }) {
           <div className={styles.logos}>
             <Image src={gcoej} width={100} height={100}  alt="Notion" className={styles.logo} />
           </div>
-          <h1>GCOEJ T&P Blog</h1>
+          <h1>Abhi Thorat's Blog</h1>
           <p>
             This is an Gcoej Training and placement blog.Created to help student
             to get the information about the placement and training process. & job opportunities.
